@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(4, 17, 36);
+}
+.main-image{
+    border-radius: 1.5rem;
+    padding: 1rem;
+    width: 300px;
+}
+.card{
+    border-radius: 1rem;
+    background-color: rgb(7, 22, 42);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 40px rgb(0, 0, 0);
+    
+}
+
+
+h3{
+    color: white;
+    padding-left: 1rem;
+}
+
+p{
+    color: rgb(175, 175, 234);
+    padding-left: 1rem;
+}
+
+.info{
+    padding-right: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.eth{
+    color: aqua;
+}
+.profile{
+    margin-top: 0.5rem;
+    border: 1px solid white;
+    border-radius: 50%;
+    height: 1.5rem;
+}
+.signature{
+    display: flex;
+    padding-left: 1rem;
+}
+
+.attribution{
+    color: white;
+    position:absolute;
+    bottom: 0;
+}
