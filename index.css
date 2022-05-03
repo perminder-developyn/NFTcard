@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(4, 17, 36);
+    background-color: hsl(217, 54%, 11%);
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
 }
 .main-image{
     border-radius: 1.5rem;
@@ -8,7 +10,7 @@ body{
 }
 .card{
     border-radius: 1rem;
-    background-color: rgb(7, 22, 42);
+    background-color: hsl(216, 50%, 16%);
     position: fixed;
     top: 50%;
     left: 50%;
@@ -24,7 +26,7 @@ h3{
 }
 
 p{
-    color: rgb(175, 175, 234);
+    color:  hsl(215, 51%, 70%);
     padding-left: 1rem;
 }
 
