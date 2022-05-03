@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View GitHub repo](https://github.com/perminder-developyn/NFTcard)
-- Live Site URL: [Site (to be released)](https://your-live-site-url.com)
+- Live Site URL: [Site](https://perminder-developyn.github.io/NFTcard/)
 
 ## My process
 
