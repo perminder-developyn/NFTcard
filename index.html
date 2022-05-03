@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
   <link rel="stylesheet" href="./index.css">
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   
   <title>Frontend Mentor | NFT preview card component</title>
@@ -14,16 +14,21 @@
 </head>
 <body>
 <div class="card">
+ <div class="image-container">
   <img class="main-image" src="./images/image-equilibrium.jpg"/>
-  <h3>Equilibrium #3429</h3>
+  <img class="view" src="./images/icon-view.svg"/>
+ </div>
+  <h3 class="hover">Equilibrium #3429</h3>
   <p>Our Equilibrium collection promotes <br/>balance and calm.</p>
   <div class="info">
     <p class="eth"> <img src="./images/icon-ethereum.svg" /> 0.041 ETH</p>
     <p class="time"> <img src="./images/icon-clock.svg" /> 3 days left</p>
   </div>
+  <div class="line-decoration">
   <div class="line"></div>
+  </div>
     <div class="signature">
-      <img class="profile" src="images/image-avatar.png" /> <p>Creation of </p> <p>Jules Wyvern</p>
+      <img class="profile" src="images/image-avatar.png" /> <p>Creation of</p> <p class="hover" style="transform: translateX(-10px);">Jules Wyvern</p>
   </div>
 </div>
 
