@@ -13,10 +13,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 I chose this specific challenge as I wanted to understand responsive design after completing a course with css. Below is a screenshot that illustrates what I have created with content to use along with a reference to what the end product should resemble.
@@ -34,7 +31,6 @@ Users should be able to:
 
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
