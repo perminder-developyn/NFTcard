@@ -2,7 +2,7 @@ body{
     background-color: hsl(217, 54%, 11%);
     font-size: 18px;
     font-family: 'Outfit', sans-serif;
-    overflow-y: auto;
+    zoom: 150%;
 }
 
 
@@ -100,3 +100,15 @@ p{
     position:absolute;
     bottom: 0;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      zoom: 120%;
+    }
+  }
+
+  @media only screen and (max-width: 375px) {
+    body {
+      zoom: 100%;
+    }
+  }
